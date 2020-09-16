@@ -12,6 +12,8 @@
   - git
   - python
   - pygame
+  - books
+  - links
 
 - title: Assessment
   docs:
@@ -24,5 +26,5 @@
 
 - title: 0. Overview
   docs:
-  - overview0
+  - overview
 
