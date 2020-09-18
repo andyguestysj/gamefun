@@ -39,8 +39,8 @@ And the infamous [ET The Extra-Terrestrial](http://www.free80sarcade.com/2600_ET
 ## SNES
 
 **The Legend of Zelda - A Link To The Past** [link](https://www.retrogames.cc/snes-games/legend-of-zelda-the-a-link-to-the-past-europe.html)  
-**Chrono-Trigger** [link](https://www.retrogames.cc/snes-games/chrono-trigger-usa.html)
-**Final Fantasy VI (III in US)** [link](https://www.retrogames.cc/snes-games/final-fantasy-iii-usa.html)  
+**Chrono-Trigger** [link](https://www.retrogames.cc/snes-games/chrono-trigger-usa.html)  
+**Final Fantasy VI (III in US)** [link](https://www.retrogames.cc/snes-games/final-fantasy-iii-usa.html)   
 **Super Mario Kart** [link](https://www.retrogames.cc/snes-games/super-mario-kart-usa.html)  
 
 
