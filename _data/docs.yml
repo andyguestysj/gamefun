@@ -36,3 +36,7 @@
   - 90s
   - 2000s
   - retrogames
+
+- title: 2. Pygame
+  docs:
+  - pyg-intro
