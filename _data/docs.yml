@@ -39,4 +39,5 @@
 
 - title: 2. Pygame
   docs:
-  - pyg-intro
+  - pyg-0-intro
+  - pyg-1-basics
