@@ -54,11 +54,10 @@ These two lines set up the game window.
 while True: # main game loop
 ```
 This single line encapsulates one of the biggest concepts in games programming, the game loop.  
-<div class="row">
-    <div class="col-md-6">        
-        <img src="{{ "/assets/img/pyg2/gameloop.png" | relative_url }}" alt="Game loop cycle - input, update, render" class="img-responsive">
-    </div>
-</div>
+<centre>        
+    <img src="{{ "/assets/img/pyg2/gameloop.png" | relative_url }}" alt="Game loop cycle - input, update, render" class="img-responsive">
+</centre>
+
 
 
 
