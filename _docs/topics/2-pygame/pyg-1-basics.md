@@ -155,6 +155,12 @@ Note also that we do not draw anything in the game loop in this program. We draw
 
 In most games we will have things on screen which change or move so they will need to be redrawn in the game loop but if our game has a single, constant background image we will only draw it once.  
 
+## Building A Game World
+
+Really it is best not to think about *drawing* at all. Think of it as building and updating the *game world*. Rendering is then visualising that world. When developing 3D games and using most game engines (like Unity and Unreal) it is explicitly done this way. You place objects in a location or scene and position a camera. Rendering is the process of taking the scene, calculating how to display it and sending that display information to the graphics card. (This is a simplification, modern graphic cards do much of this calculation themselves).  
+
+If you want an analogy think of a 3D game like a stop motion animation. The characters and other objects are placed in a set and a photo is taken. The characters are then repositioned slightly and another photo is taken and so on. Each individual photo is a single render and each "game loop" another photo is taken and displayed. The series of rapidly changing images gives the illusion of movement.  
+
 #### Exercise 2
 
 1. Go back to your code and play around with the parameters to the drawing lines of code and see what happens.
