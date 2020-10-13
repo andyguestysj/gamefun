@@ -14,3 +14,15 @@ permalink: /docs/twine/
 >Can you build games with Twine? Of course! Twine has the capability to do conditional logic, so if the protagonist finds a key in an early part of the story, he or she can use it to open a door later on. It can also incorporate variables, which encompass the traditional trappings of games such as hit points and score. These, along with agency, are foundational concepts of interactivity, the currency of game design.  
 
 
+## Twine
+
+Twine is available from [https://twinery.org/](https://twinery.org/). It can be downloaded or used in the browser.
+
+## Getting Started
+
+* [Twine 2.0 Guide](https://twinery.org/wiki/twine2:guide)  
+* [Twine 2.1 Beginner's Guide](http://www.adamhammond.com/twineguide/)  
+* [Twine Tutorial List](https://www.reddit.com/r/twinegames/comments/au74yc/collection_of_tutorials_ive_found_useful_while/)
+* [Twine Reddit](https://www.reddit.com/r/twinegames/)
+
+
