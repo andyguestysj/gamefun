@@ -1,6 +1,6 @@
 ---
 title: Twine
-permalink: /docs/Twine/
+permalink: /docs/twine/
 ---
 
 ## From The Twine Wiki
