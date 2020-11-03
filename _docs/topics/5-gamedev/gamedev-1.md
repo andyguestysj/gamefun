@@ -1,4 +1,4 @@
- ---
+---
 title: Game Design Document
 permalink: /docs/gamedev-1/
 ---

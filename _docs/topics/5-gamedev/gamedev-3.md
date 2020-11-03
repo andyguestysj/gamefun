@@ -1,4 +1,4 @@
- ---
+---
 title:  The Ten Pager
 permalink: /docs/gamedev-3/
 ---

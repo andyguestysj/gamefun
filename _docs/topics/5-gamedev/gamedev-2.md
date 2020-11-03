@@ -1,4 +1,4 @@
- ---
+---
 title: The One-Sheet
 permalink: /docs/gamedev-2/
 ---

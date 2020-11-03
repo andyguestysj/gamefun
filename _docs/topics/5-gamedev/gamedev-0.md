@@ -1,4 +1,4 @@
- ---
+---
 title: Iterative Design
 permalink: /docs/gamedev-0/
 ---

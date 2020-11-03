@@ -1,4 +1,4 @@
- ---
+---
 title: The Beat Chart
 permalink: /docs/gamedev-4/
 ---
