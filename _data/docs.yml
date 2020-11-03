@@ -62,6 +62,14 @@
   - framew-4
   - framew-5
 
+  - title: 5. Game Development
+  docs:
+  - gamedev-0
+  - gamedev-1
+  - gamedev-2
+  - gamedev-3
+  - gamedev-4
+
 
 - title: Critical Analysis
   docs:

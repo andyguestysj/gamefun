@@ -1,37 +1,23 @@
----
-title: Analysis
+ ---
+title: Game Design Document
 permalink: /docs/gamedev-1/
 ---
 
-making your first game video guide https://www.youtube.com/playlist?list=PLhyKYa0YJ_5C6QC36h5eApOyXtx98ehGi
-game design tutorial https://www.youtube.com/playlist?list=PLhqJJNjsQ7KHI3oYZfZ9nLEnQMBEhbmP8
+A Game Design Document (GDD) defines everything in your game - characters, levels, colour schemes, the interface, sounds, everything. It is, potentially, a large, intimidating document, even for a small game. The GDD is not, however, a monolith of a document that has to be completed before anything else is. That would go against the process of iterative design. Instead the GDD will develop over time as the game develops.  
 
+## Game Bibles
 
->*"Game design is 1% inspiration and 99% iteration"* - Chris Swain  
+Before looking at what a GDD is it is worth talking about something it isn't. A GDD is *not* a **game bible**. A game bible describes the setting of a game, the world the game takes place in, its people, its history. It also covers rules about how the game world works - does it have magic? how does magic work? Does it have talking animals? Aliens? Anything about how the world works rather than how the game works belongs in a game bible rather than the GDD. Of course there will be times when the GDD says something like "because the world has magic and magic works this way the game will let players cast spells and the spells will work like this", but in general the GDD is focused on the game where the game bible is focused on the setting.  
+The main purpose of a game bible is to ensure that everyone working on the game is able to keep the world consistent. Different team members working on different levels can check with the game bible to ensure they don't contradict each other. A small team working closely together on a small game may not need a game bible. A large team working on an abstract puzzle game may not need one either.
 
-The process of iterative design is the key to good game design. 
+## Game Design Document
 
-<centre>        
-    <img src="{{ "/assets/img/gamedev/iter2.jpg" | relative_url }}" alt="The Iterative Approach" class="img-responsive">
-</centre>
+There are as many approaches to creating a GDD as there are game designers and then some. There is no standard approach. The approach described here comes from Scott Rogers' *"Level Up! The Guide To Great Video Game Design"* John Wiley and Sons Ltd, 2014.
 
-### Analysis
-
-In design, analysis is the process of understanding where you are and what you are trying to do. In software development we often talk of the "problem to be solved", where the "problem" is how to develop the software we want to produce. It also involves understand the resources (including time) you have available to you. Analysis isn't about *solving* the problem, it is about *identifying* and *understanding* it.  
-
-### Design
-
-Analysis helps us understand what we are trying to do, design is the process of finding a way of do it. Specifically it is the *process of coming up with a way to do it* it is *not about actually doing this*. Design begins with idea generation and ends with a plan for implementation.  
-
-### Implementation
-
-Implementation is the process of putting the plan in to action and coming up with a solution to the "problem". In game development implementation is about getting from a game design idea to a playable prototype as quickly as possible. Early implementations will be basic, perhaps only a character moving around the screen perhaps not even that.
-
-### Testing
-
-Testing, play-testing is absolutely essential. You might perfectly design and implement your vision and it might be no fun to anyone except yourself. Get people playing your game, get them playing it as early and as often as possible. Get them playing the basic game play before you move on to anything else. If you are making a platformer make sure people like the jumping mechanic works and the way it feels. If you are making an FPS find out if players like the movement and shooting.  
-Test as often as possible, don't make lots of changes between test sessions, you want to understand what the effect of each change is. Too many changes between tests and it is hard to judge what change prompt which response.  
-
-
-
+Scott Rogers suggest a four step approach.
+1. The One-Sheet
+2. The Ten Pager
+3. The Beat Chart
+4. The Game Design Document
+Each of these builds incrementally on the previous steps.  
 
