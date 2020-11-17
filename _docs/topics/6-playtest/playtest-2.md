@@ -144,4 +144,15 @@ Core elements are:
   * How likely is it to occur for a normal player?
   * How noticeable is it?
 * Tell the engineering team so that they can fix it
-QA is most often done by the development team and a group of game testers hired for the final phase of a project. It is also possible to set up ways for players to submit bugs but most players don't have the training to generate really good bug reports that include clear steps for reproducing the bug.
+QA is most often done by the development team and a group of game testers hired for the final phase of a project. It is also possible to set up ways for players to submit bugs but most players don't have the training to generate really good bug reports that include clear steps for reproducing the bug. Many free bug tracking tools are available - Bugzilla, Mantis Bug Tracker, Trac, etc.
+
+### Automated Testing
+A piece of software attempts to find bugs in your game or game server without requiring human input
+Automates testing methods include:
+* Simulating rapid user input
+  * Example: hundreds of clicks per second all over the screen
+* Inundating a server with thousands of requests per second
+  * Determines the level of server load that could cause the server to fail
+This can effectively test your game in ways that are very difficult for human QA testers to accomplish. Several companies specialize in automated testing.
+
+
