@@ -86,6 +86,10 @@
   - balance-4
   - balance-5
 
+- title: 8. Guiding The Player
+  docs:
+  - guiding-1
+
 - title: Critical Analysis
   docs:
   - crit-1
