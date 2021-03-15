@@ -92,7 +92,7 @@ Python's `random` library comes with a number of functions. See [https://www.w3s
 
 Most random number generators are actually *pseudo-random number generators*. They do not generate a truly random number but instead use an algorithm to generate a number from a sequence. The random number generator in most programming languages will generate the same "random" numbers in the same order every time a program is run! The system uses a *seed* to determine where to start in the sequence and, unless given a new seed, will use the same seed every time the program start.
 
-Ironically this doesn't seem to be true under Repl.it but we can replicate it by deliberately using the same seed before generating a random number.
+Ironically this doesn't seem to be true under replit.com but we can replicate it by deliberately using the same seed before generating a random number.
 
 ```python
 random.seed(1)
