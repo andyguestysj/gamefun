@@ -40,11 +40,10 @@
   - retrogames
 
 - title: 2. Game Engines
-  - title: PyGame  
-    docs:
-    - pyg-0-intro
-    - pyg-1-basics
-  #  - pyg-2-animation
+  docs:
+#  - pyg-0-intro
+#  - pyg-1-basics
+#  - pyg-2-animation
 
 - title: 3. Vocabulary
   docs:
