@@ -44,6 +44,7 @@
   - pyg-0-intro
 
   - title: PyGame  
+    docs:
     - pyg-1-basics
   #  - pyg-2-animation
 
