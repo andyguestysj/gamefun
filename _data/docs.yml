@@ -42,7 +42,8 @@
 - title: 2. Game Engines
   docs:
   - pyg-0-intro
-  subfolderitems:
+
+  - title: PyGame  
     - pyg-1-basics
   #  - pyg-2-animation
 
