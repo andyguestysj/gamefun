@@ -43,8 +43,6 @@
   docs:
   - pyg-0-intro
   subfolderitems:
-  - title: 2.1 Pygame
-    docs:
     - pyg-1-basics
   #  - pyg-2-animation
 
