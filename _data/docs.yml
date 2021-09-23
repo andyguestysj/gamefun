@@ -42,7 +42,7 @@
 - title: 2. Game Engines
   docs:
   - pyg-0-intro
-  subnav:
+  subfolderitems:
   - title: 2.1 Pygame
     docs:
     - pyg-1-basics
