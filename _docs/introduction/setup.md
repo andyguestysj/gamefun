@@ -13,7 +13,7 @@ If there are any contradictions between Moodle and other sources the Moodle info
 
 ## Website
 
-The content for the module will be provided through the Programming 03 webpage [https://ysjdp.netlify.app/](https://ysjdp.netlify.app/). Moodle isn't suitable for presenting the information, videos and tutorials required. There is a link to the webpage on Moodle.
+The content for the module will be provided through the Games Fundamentals webpage [https://ysjgamefun.netlify.app/](https://ysjgamefun.netlify.app/). Moodle isn't suitable for presenting the information, videos and tutorials required. There is a link to the webpage on Moodle.
 
 ## eMail
 
@@ -27,9 +27,7 @@ MS Teams will be used for all face to face contact. Lab/tutorial session will be
 
 ## replit.com
 
-Given the current circumstances requiring social distancing we have very limited space in the labs and we cannot do side by side programming. Students cannot sit together to code and lecturers cannot sit with students to help them. The installed version of MS Teams does allow screen sharing which allows us to work remotely but that requires everyone to have access to the required software. We know from experience that students using Eclipse, Visual Studio Code, Netbeans, etc is problematic. It is very hard for us to support you installing the software and problems arise with getting code to run on different compilers.
-
-We will be using the replit.com website for all coding on this module. replit.com is an online browser based compiler that supports a wide range of programming languages. Code is written directly in a browser, compiled and executed on replit.com's server and the output is sent back to the browser. This ensures that all students have access to the same software without installation issues. Additionally because the code is compiled and executed remotely on replit.com's servers it ensures that any computer with a browser and an internet connection can be used.  
+We used replit.com last year to help us during the covid pandemic. replit.com can be used again this year but it is not required.  
 
 One of the "languages" replit.com supports is Python with Pygame, making it very easy for us to set up and develop games directly in the browser.
 
@@ -41,4 +39,4 @@ The replit.com page on this site (under the Reference section) contains instruct
 
 ## Git
 
-We will be using Git again to store code repositories and submit code. replit.com has very good integration with GitHub and can pull and push code from our GitLab (with a little bit of setup). Information on how to do this is on the replit.com page.
+We will be using Git to store code repositories and submit code. replit.com has very good integration with GitHub and can pull and push code from our GitLab (with a little bit of setup). Information on how to do this is on the replit.com page.

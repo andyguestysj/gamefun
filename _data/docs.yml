@@ -39,67 +39,68 @@
   - 2000s
   - retrogames
 
-- title: 2. Pygame
+- title: 2. Game Engines
+- subtitle: 2.1 PyGame
   docs:
-  - pyg-0-intro
-  - pyg-1-basics
-  - pyg-2-animation
+#  - pyg-0-intro
+#  - pyg-1-basics
+#  - pyg-2-animation
 
 - title: 3. Vocabulary
   docs:
-  - vocab-0
-  - vocab-1
-  - vocab-2
-  - vocab-3
-  - vocab-4
+#  - vocab-0
+#  - vocab-1
+#  - vocab-2
+#  - vocab-3
+#  - vocab-4
 
 - title: 4. Frameworks
   docs:
-  - framew-0
-  - framew-1
-  - framew-2
-  - framew-3
-  - framew-4
-  - framew-5
+#  - framew-0
+#  - framew-1
+#  - framew-2
+#  - framew-3
+#  - framew-4
+#  - framew-5
 
 - title: 5. Game Development
   docs:
-  - gamedev-0
-  - gamedev-1
-  - gamedev-2
-  - gamedev-3
-  - gamedev-4
-  - gamedev-5
+#  - gamedev-0
+#  - gamedev-1
+#  - gamedev-2
+#  - gamedev-3
+#  - gamedev-4
+#  - gamedev-5
 
 - title: 6. Playtesting
   docs:
-  - playtest-1
-  - playtest-2
-  - playtest-3
-  - playtest-4
+#  - playtest-1
+#  - playtest-2
+#  - playtest-3
+#  - playtest-4
 
 - title: 7. Game Balance
   docs:
-  - balance-1
-  - balance-2
-  - balance-3
-  - balance-4
-  - balance-5
+#  - balance-1
+#  - balance-2
+#  - balance-3
+#  - balance-4
+#  - balance-5
 
 - title: 8. Guiding The Player
   docs:
-  - guiding-1
+#  - guiding-1
 
 - title: Critical Analysis
   docs:
-  - crit-1
+#  - crit-1
 
 - title: Twine
   docs:
-  - twine-0
-  - twine-1
+#  - twine-0
+#  - twine-1
 
 - title: Godot
   docs:
-  - godot-0
-  - godot-1
+#  - godot-0
+#  - godot-1
