@@ -4,3 +4,4 @@ _site
 *.gem
 .bundle
 vendor/bundle
+_sass/bootswatch/spacelab/_bootswatch.scss
