@@ -28,6 +28,6 @@ This week I would like you to sign up to Board Game Arena, a popular online boar
 
 Once registered I'd like you to split in to groups of 3-4 and play a few games of Battle Sheep. The rule book for Battle Sheep is available on Board Game Arena [here](http://cdn.boardgamearena.net/data/others/battle_sheep_rules.pdf). Battle Sheep is an apparently silly little game with a surprising amount of depth strategically.  
 
-For next week (14/10/20) I'd like you to prepare a critical analysis of Battle Sheep based on today's game play. I'd like you to use the topics and vocabulary described in the Vocabulary section of this modules website (Topic 3. Vocabulary). You may find the two links above (in the Critical Analysis section) useful.  
+For next week I'd like you to prepare a critical analysis of Battle Sheep based on today's game play. I'd like you to use the topics and vocabulary described in the Vocabulary section of this modules website (Topic 3. Vocabulary). You may find the two links above (in the Critical Analysis section) useful.  
 
-Don't go overboard with this, I'm not looking for more than a single side of A4's worth of analysis. Email it to me at a.guest@yorksj.ac.uk by 12 noon on Tuesday 13th October. Next week we'll discuss the game and your critiques of it. After the session I'll upload the critiques to the web page, anonymised, so we can see the diffferent approaches and insights you've come up with.  
+Don't go overboard with this, I'm not looking for more than a single side of A4's worth of analysis. 

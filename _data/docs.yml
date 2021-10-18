@@ -39,19 +39,20 @@
   - 2000s
   - retrogames
 
-- title: 2. Game Engines
+- title: 2. Vocabulary
+  docs:
+  - vocab-0
+  - vocab-1
+  - vocab-2
+  - vocab-3
+  - vocab-4
+
+- title: 3. Game Engines
   docs:
 #  - pyg-0-intro
 #  - pyg-1-basics
 #  - pyg-2-animation
 
-- title: 3. Vocabulary
-  docs:
-#  - vocab-0
-#  - vocab-1
-#  - vocab-2
-#  - vocab-3
-#  - vocab-4
 
 - title: 4. Frameworks
   docs:
@@ -92,7 +93,7 @@
 
 - title: Critical Analysis
   docs:
-#  - crit-1
+  - crit-1
 
 - title: Twine
   docs:
