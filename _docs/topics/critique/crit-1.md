@@ -24,7 +24,7 @@ Crit sessions are common in the art and design world, including game art and des
 
 #### Exercise
 
-This week I would like you to sign up to Board Game Arena, a popular online board game playing site. [www.boardgamearena.com](www.boardgamearena.com)  
+This week I would like you to sign up to Board Game Arena, a popular online board game playing site. [http://www.boardgamearena.com](http://www.boardgamearena.com)  
 
 Once registered I'd like you to split in to groups of 3-4 and play a few games of Battle Sheep. The rule book for Battle Sheep is available on Board Game Arena [here](http://cdn.boardgamearena.net/data/others/battle_sheep_rules.pdf). Battle Sheep is an apparently silly little game with a surprising amount of depth strategically.  
 
