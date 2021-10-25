@@ -47,21 +47,22 @@
   - vocab-3
   - vocab-4
 
-- title: 3. Game Engines
+- title: 3. Frameworks
+  docs:
+  - framew-0
+  - framew-1
+  - framew-2
+  - framew-3
+  - framew-4
+  - framew-5
+
+- title: 4. Game Engines
   docs:
 #  - pyg-0-intro
 #  - pyg-1-basics
 #  - pyg-2-animation
 
 
-- title: 4. Frameworks
-  docs:
-#  - framew-0
-#  - framew-1
-#  - framew-2
-#  - framew-3
-#  - framew-4
-#  - framew-5
 
 - title: 5. Game Development
   docs:
