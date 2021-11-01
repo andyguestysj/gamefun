@@ -56,31 +56,31 @@
   - framew-4
   - framew-5
 
-- title: 4. Game Engines
-  docs:
+#- title: 4. Game Engines
+#  docs:
 #  - pyg-0-intro
 #  - pyg-1-basics
 #  - pyg-2-animation
 
 
 
-- title: 5. Game Development
+- title: 4. Game Development
   docs:
-#  - gamedev-0
-#  - gamedev-1
-#  - gamedev-2
-#  - gamedev-3
-#  - gamedev-4
-#  - gamedev-5
+  - gamedev-0
+  - gamedev-1
+  - gamedev-2
+  - gamedev-3
+  - gamedev-4
+  - gamedev-5
 
-- title: 6. Playtesting
+- title: 5. Playtesting
   docs:
 #  - playtest-1
 #  - playtest-2
 #  - playtest-3
 #  - playtest-4
 
-- title: 7. Game Balance
+- title: 6. Game Balance
   docs:
 #  - balance-1
 #  - balance-2
@@ -88,7 +88,7 @@
 #  - balance-4
 #  - balance-5
 
-- title: 8. Guiding The Player
+- title: 7. Guiding The Player
   docs:
 #  - guiding-1
 
