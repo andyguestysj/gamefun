@@ -3,6 +3,8 @@ title: Iterative Design
 permalink: /docs/gamedev-0/
 ---
 
+[Lecture Video](https://web.microsoftstream.com/video/782c123a-6105-4fd3-a67c-bbfbd3ce4fc1)  
+
 >*"Game design is 1% inspiration and 99% iteration"* - Chris Swain  
 
 The process of iterative design is the key to good game design. 
