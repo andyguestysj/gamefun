@@ -76,10 +76,10 @@
 
 - title: 5. Playtesting
   docs:
-#  - playtest-1
-#  - playtest-2
-#  - playtest-3
-#  - playtest-4
+  - playtest-1
+  - playtest-2
+  - playtest-3
+  - playtest-4
 
 - title: 6. Game Balance
   docs:
