@@ -43,3 +43,16 @@ Have you got everything you need?
 * A way to take notes/record what happens
 * A way to get feedback from the players
 * A plan for how the playtest will work
+
+#### Resources
+
+* [Schell's guide to playtest questions](https://www.schellgames.com/blog/the-definitive-guide-to-playtest-questions)
+* [Best Practices Article](https://www.gamedeveloper.com/design/best-practices-five-tips-for-better-playtesting)
+* [GameDevAcademy - How to playtest your game](https://gamedevacademy.org/game-playtest-tutorial/)
+
+**Youtube Videos**
+* [Brackeys](https://www.youtube.com/watch?v=b9U1dcUS_-w)
+* [Extra Credits](https://www.youtube.com/watch?v=on7endO4lPY)
+* [Adam in Wales - Boardgame](https://www.youtube.com/watch?v=IgRv8mF7cPo)
+* [RagnaRox - Playtesting part 1](https://www.youtube.com/watch?v=Yb-znyOK5Kc)
+* [Avoiding evil data](https://www.youtube.com/watch?v=6EUeYu0aPn4)
