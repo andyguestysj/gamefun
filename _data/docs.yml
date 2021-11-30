@@ -83,11 +83,11 @@
 
 - title: 6. Game Balance
   docs:
-#  - balance-1
-#  - balance-2
-#  - balance-3
-#  - balance-4
-#  - balance-5
+  - balance-1
+  - balance-2
+  - balance-3
+  - balance-4
+  - balance-5
 
 - title: 7. Guiding The Player
   docs:
