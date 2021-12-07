@@ -91,7 +91,11 @@
 
 - title: 7. Guiding The Player
   docs:
-#  - guiding-1
+  - guiding-1
+
+- title: 8. Game & Core Loops
+  docs:
+  - loop-1
 
 - title: Critical Analysis
   docs:
