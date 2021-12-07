@@ -28,16 +28,12 @@ The `core loop` is the primary game system or mechanic which defines your game. 
 
 The core loop comprises the most basic kinds of actions that players can take. Whether that is moving around the map in *League of Legends*; drafting cards in *Splendor*; or platforming across the screen in *Super Mario Bros*. The genre of your game doesn’t matter. What does matter is making sure that your players continue to engage over time through a well structured core loop.  
 
-#### Adam Millard / The Architect of Games on Core Loops 
+#### Videos on Core Loops
 
-* **[How Gameplay (Core) Loops Keep You Playing](https://www.youtube.com/watch?v=Sk-nbAtIUko)**
-
-This youtube channel is well worth watching for anyone interested in games.  
-
-**Other videos**  
+* [Extra Credits](https://www.youtube.com/watch?v=mGL5YGcAxEI&list=PLQM0OWYycizC0tX2iW7VL4dNLAEJjXi6T)
+* [How Gameplay (Core) Loops Keep You Playing](https://www.youtube.com/watch?v=Sk-nbAtIUko)
 * [Game Design With Michael](https://www.youtube.com/watch?v=PMj8Q4ViKzs)
 * [Make School](https://www.youtube.com/watch?v=9SLxpCVnrFI)
-* [Extra Credits](https://www.youtube.com/watch?v=mGL5YGcAxEI&list=PLQM0OWYycizC0tX2iW7VL4dNLAEJjXi6T)
 
 #### Overview from Dave Eng on medium.com  
 
